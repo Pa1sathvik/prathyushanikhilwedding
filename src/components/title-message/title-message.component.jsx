@@ -36,16 +36,16 @@ const TitleMessage = () => (
 		<div className="titleMessage">
 			<div className="heading">
 				<div className="main text-center mb-3">
-					Hi, I am
+				<strong>Nikhil & Prathyusha's wedding</strong>
 					<br />
 					<span>
-						<strong>Vutukuri Sathvik</strong>
+						We invite you to share our celebration of lifelong love and commitment as we exchange vows on..
 					</span>
 				</div>
 				<div className="sub">
 					<Typewriter
 						options={{
-							strings: ['Full Stack Developer ', 'Learner'],
+							strings: ['Save The Date ', '02nd March, 2024 | 11:21 AM'],
 							autoStart: true,
 							loop: true,
 							delay: 50,
