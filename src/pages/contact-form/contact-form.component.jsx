@@ -12,13 +12,14 @@ const ContactForm = () => {
 			<Jumbotron className="contact-jumbotron">
 				<div className='root'>
 				<div className='groom'><strong className='name'>Groom Contacts:</strong>
+				<br/>
 				<Row>
 					<Col className="d-flex justify-content-center flex-wrap">
 						
 						<div className="m-2">
-							<a href="tel:8197748291" target="_blank" rel="noopener noreferrer">
-								<Button variant="outline-warning" title="+91 8197748291">
-									<i className="fas fa-mobile"></i> Call me
+							<a href="tel:7259131616" target="_blank" rel="noopener noreferrer">
+								<Button variant="outline-warning" title="+91 7259131616">
+									<i className="fas fa-mobile"></i> +91-7259131616 (he himself)
 								</Button>
 							</a>
 						</div>
@@ -28,15 +29,16 @@ const ContactForm = () => {
 					<Col className="d-flex justify-content-center flex-wrap">
 						
 						<div className="m-2">
-							<a href="tel:8197748291" target="_blank" rel="noopener noreferrer">
-								<Button variant="outline-warning" title="+91 8197748291">
-									<i className="fas fa-mobile"></i> Call me
+							<a href="tel:9441145566" target="_blank" rel="noopener noreferrer">
+								<Button variant="outline-warning" title="+91 9441145566">
+									<i className="fas fa-mobile"></i> +91-9441145566 (Father - Mr. Adinarayana)
 								</Button>
 							</a>
 						</div>
 					</Col>
 				</Row></div>
 					<div className='bride'><strong className='name'>Bride Contacts:</strong>
+					<br/>
 				<Row>
 					<Col className="d-flex justify-content-center flex-wrap">
 						

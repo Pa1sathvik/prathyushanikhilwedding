@@ -41,10 +41,7 @@ const App = () => {
 					<Skills />
 				</Slide>
 			</Container>
-			<div>
-				<hr />
-				<Experience />
-			</div>
+			
 
 			<Container className="container-box rounded">
 				<Fade duration={500}>

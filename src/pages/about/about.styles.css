@@ -1,5 +1,5 @@
 .about {
-  background-color: transparent;
+  
   font-size: 1.1em;
 }
 
@@ -13,9 +13,10 @@
 
 .introduction{
 
-  font-family: Arial, Helvetica, sans-serif !important;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   border-radius: 0.5rem;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-size: large;
+  box-shadow: rgba(217, 19, 19, 0.35) 0px 5px 15px;
 }
 
 #about{

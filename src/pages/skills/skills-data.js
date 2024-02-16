@@ -3,7 +3,7 @@ import BRIDE from '../../assets/img/skills/bride.jpeg';
 import MEHENDI from '../../assets/img/skills/mehendi.png';
 import SANGEET from '../../assets/img/skills/sangeet.jpeg';
 import WEDDING from '../../assets/img/skills/wedding.jpeg';
-import GROOMWELCOME from '../../assets/img/skills/groom_welcome.png';
+import GROOMWELCOME from '../../assets/img/skills/GroomWelcome.jpeg';
 
 
 import L_SASS from '../../assets/img/skills/sass-1.svg';

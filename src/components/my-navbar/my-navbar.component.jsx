@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import Logo from '../../assets/icons/logow.png';
+import Logo from '../../assets/icons/NP.jpeg';
 import './my-navbar.styles.css';
 
 const MyNavbar = () => {
@@ -19,9 +19,7 @@ const MyNavbar = () => {
 						<Nav className="mr-auto ">
 							<Nav.Link href="#home" className='link'>Home</Nav.Link>
 							<Nav.Link href="#about" className='link'>About Us</Nav.Link>
-							<Nav.Link href="#events" className='link'>Events</Nav.Link>
-							<Nav.Link href="#experience" className='link'>Experience</Nav.Link>
-							
+							<Nav.Link href="#events" className='link'>Wedding Events</Nav.Link>
 							<Nav.Link href="#contact" className='link'>Contact</Nav.Link>
 						</Nav>
 					</Navbar.Collapse>

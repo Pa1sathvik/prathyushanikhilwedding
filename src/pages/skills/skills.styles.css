@@ -6,6 +6,12 @@
   transform: scale(1);
 }
 
+.location{
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
 .pre-header{
   margin: auto;
   font-size: large;
@@ -20,6 +26,10 @@
   margin-bottom: 20px;
   font-size: 120%;
 
+}
+
+.groom-image{
+  margin-left: 420px;
 }
 
 .mehendi-image{
