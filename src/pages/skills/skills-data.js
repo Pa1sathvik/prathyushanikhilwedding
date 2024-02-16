@@ -4,19 +4,11 @@ import MEHENDI from '../../assets/img/skills/mehendi.png';
 import SANGEET from '../../assets/img/skills/sangeet.jpeg';
 import WEDDING from '../../assets/img/skills/wedding.jpeg';
 import GROOMWELCOME from '../../assets/img/skills/GroomWelcome.jpeg';
-
-
-import L_SASS from '../../assets/img/skills/sass-1.svg';
-import L_REACT from '../../assets/img/skills/react.svg';
-import L_REDUX from '../../assets/img/skills/redux.svg';
-import L_REACT_ROUTER from '../../assets/img/skills/react-router.svg';
-import L_REACT_BOOTSTRAP from '../../assets/img/skills/react-bootstrap.svg';
 import L_GIT from '../../assets/img/skills/git-icon.svg';
 import L_DOCKER from '../../assets/img/skills/docker.png';
 import L_GITHUB_PAGES from '../../assets/img/skills/github.svg';
 import L_JAVASCRIPT from '../../assets/img/skills/javascript.svg';
 import L_SPRING from '../../assets/img/skills/springboot.svg';
-import L_SEMANTIC_UI from '../../assets/img/skills/semantic.png';
 import L_PERFORCE from '../../assets/img/skills/perforce.jpg';
 import L_ORACLE from '../../assets/img/skills/oracle.png';
 import L_H2 from '../../assets/img/skills/h2.png';
@@ -24,9 +16,7 @@ import L_JAVA from '../../assets/img/skills/java.png';
 import L_JUNIT from '../../assets/img/skills/junit.png';
 import L_MOCKITO from '../../assets/img/skills/mockito.png';
 import L_GRAFANA from '../../assets/img/skills/grafana.svg';
-
 import L_PROMETHEUS from '../../assets/img/skills/prometheus.svg';
-
 import L_MICROMETER from '../../assets/img/skills/micrometer.svg';
 import L_REST from '../../assets/img/skills/rest.jpg';
 import L_GRAPHQL from '../../assets/img/skills/graphql.svg'
