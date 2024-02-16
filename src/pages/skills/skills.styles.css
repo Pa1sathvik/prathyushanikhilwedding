@@ -18,7 +18,7 @@
   margin-bottom: 20px;
 }
 .haldii-image{
-  margin-left: 350px;
+  margin:auto;
 }
 
 .event-message{
@@ -29,11 +29,11 @@
 }
 
 .groom-image{
-  margin-left: 420px;
+  margin:auto
 }
 
 .mehendi-image{
-  margin-left: 350px;
+  margin:auto
 }
 .event-date{
   margin: auto;
@@ -42,14 +42,14 @@
 
 .haldi-image{
 
-  margin-left: 220px;
+  margin:auto;
 }
 .sangeet-image{
-  margin-left: 420px;
+  margin:auto
 }
 
 .wedding-image{
-  margin-left: 350px;
+  margin:auto;
 }
 .haldi{
 

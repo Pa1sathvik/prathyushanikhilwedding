@@ -37,7 +37,7 @@ const Skills = () => {
 												src={skill.imgSrc}
 												alt={skill.imgAltText}
 												rounded
-												className='haldi-image'
+												className='haldi-image img-fluid'
 												
 											></Image>{' '}
 											</a>
@@ -84,7 +84,7 @@ const Skills = () => {
 												src={skill.imgSrc}
 												alt={skill.imgAltText}
 												rounded
-												className='haldii-image'
+												className='haldii-image img-fluid'
 												
 											></Image>{' '}
 											</a>
@@ -131,7 +131,7 @@ const Skills = () => {
 												src={skill.imgSrc}
 												alt={skill.imgAltText}
 												rounded
-												className='mehendi-image'
+												className='mehendi-image img-fluid'
 												
 											></Image>{' '}
 											</a>
@@ -272,7 +272,7 @@ const Skills = () => {
 												src={skill.imgSrc}
 												alt={skill.imgAltText}
 												rounded
-												className='wedding-image'
+												className='wedding-image img-fluid'
 												
 											></Image>{' '}
 											</a>
