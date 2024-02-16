@@ -17,9 +17,7 @@
   font-size: large;
   margin-bottom: 20px;
 }
-.haldii-image{
-  margin:auto;
-}
+
 
 .event-message{
 
@@ -28,29 +26,71 @@
 
 }
 
-.groom-image{
-  margin:auto
-}
 
-.mehendi-image{
-  margin:auto
-}
 .event-date{
   margin: auto;
   font-size: large;
 }
 
-.haldi-image{
 
-  margin:auto;
-}
-.sangeet-image{
-  margin:auto
+
+/* Rule for mobile screens */
+@media (max-width: 768px) {
+  .haldi-image{
+
+    margin:auto;
+  }
+  .groom-image{
+    margin:auto
+  }
+  
+  .mehendi-image{
+    margin:auto
+  }
+
+  .sangeet-image{
+    margin:auto
+  }
+  
+  .wedding-image{
+    margin:auto;
+  }
+
+  .haldii-image{
+    margin:auto;
+  }
 }
 
-.wedding-image{
-  margin:auto;
+/* Rule for laptops and desktops */
+@media (min-width: 1025px) {
+  .haldi-image{
+
+    margin-left:250px;
+  }
+
+  .groom-image{
+    margin-left:420px;
+  }
+  
+  .mehendi-image{
+    margin-left:350px;
+  }
+
+  .sangeet-image{
+    margin-left:420px;
+  }
+  
+  .wedding-image{
+    margin-left:350px;
+  }
+
+  .haldii-image{
+    margin-left:350px;
+  }
 }
+
+
+
 .haldi{
 
   width: 100%;
