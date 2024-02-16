@@ -14,7 +14,7 @@ const MyTitleMessage = styled.h1`
 		font-size: 1.25em;
 	}
 	div {
-		color: yellow;
+		color: white;
 		font-family: 'Yellowtail', serif, system-ui;
 
 		text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
