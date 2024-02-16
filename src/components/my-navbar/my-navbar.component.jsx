@@ -21,6 +21,7 @@ const MyNavbar = () => {
 							<Nav.Link href="#about" className='link'>About Us</Nav.Link>
 							<Nav.Link href="#events" className='link'>Wedding Events</Nav.Link>
 							<Nav.Link href="#contact" className='link'>Contact</Nav.Link>
+							<Nav.Link href="#contact" className='link'>Live</Nav.Link>
 						</Nav>
 					</Navbar.Collapse>
 				</div>
