@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prathyushanikhilwedding/static/css/main.e2b9405b.chunk.css",
-    "main.js": "/prathyushanikhilwedding/static/js/main.0c644ad6.chunk.js",
-    "main.js.map": "/prathyushanikhilwedding/static/js/main.0c644ad6.chunk.js.map",
+    "main.js": "/prathyushanikhilwedding/static/js/main.15b82231.chunk.js",
+    "main.js.map": "/prathyushanikhilwedding/static/js/main.15b82231.chunk.js.map",
     "runtime-main.js": "/prathyushanikhilwedding/static/js/runtime-main.d6f92c76.js",
     "runtime-main.js.map": "/prathyushanikhilwedding/static/js/runtime-main.d6f92c76.js.map",
     "static/css/2.4b694195.chunk.css": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css",
     "static/js/2.18c7820e.chunk.js": "/prathyushanikhilwedding/static/js/2.18c7820e.chunk.js",
     "static/js/2.18c7820e.chunk.js.map": "/prathyushanikhilwedding/static/js/2.18c7820e.chunk.js.map",
     "index.html": "/prathyushanikhilwedding/index.html",
-    "precache-manifest.03232bf997d8919430c8ba1fe0c5c861.js": "/prathyushanikhilwedding/precache-manifest.03232bf997d8919430c8ba1fe0c5c861.js",
+    "precache-manifest.ec23175b64b96f587cc636bbf62230c5.js": "/prathyushanikhilwedding/precache-manifest.ec23175b64b96f587cc636bbf62230c5.js",
     "service-worker.js": "/prathyushanikhilwedding/service-worker.js",
     "static/css/2.4b694195.chunk.css.map": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css.map",
     "static/css/main.e2b9405b.chunk.css.map": "/prathyushanikhilwedding/static/css/main.e2b9405b.chunk.css.map",
@@ -44,6 +44,6 @@
     "static/css/2.4b694195.chunk.css",
     "static/js/2.18c7820e.chunk.js",
     "static/css/main.e2b9405b.chunk.css",
-    "static/js/main.0c644ad6.chunk.js"
+    "static/js/main.15b82231.chunk.js"
   ]
 }
