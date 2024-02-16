@@ -30,17 +30,20 @@ const App = () => {
 						<Container className="container-box rounded">
 							<Fade duration={500}>
 								<About />
+								
 							</Fade>
 						</Container>
 					</div>
 				
 			</div>
+			<div>
 			<Container className="container-box rounded">
-				<Fade duration={500}>
-					<hr />
+				
+					
 					<Skills />
-				</Fade>
+				
 			</Container>
+			</div>
 			
 
 			<Container className="container-box rounded">
