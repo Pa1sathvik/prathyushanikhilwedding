@@ -6,6 +6,49 @@
   transform: scale(1);
 }
 
+.pre-header{
+  margin: auto;
+  font-size: large;
+  margin-bottom: 20px;
+}
+.haldii-image{
+  margin-left: 350px;
+}
+
+.event-message{
+
+  margin-bottom: 20px;
+  font-size: 120%;
+
+}
+
+.mehendi-image{
+  margin-left: 350px;
+}
+.event-date{
+  margin: auto;
+  font-size: large;
+}
+
+.haldi-image{
+
+  margin-left: 220px;
+}
+.sangeet-image{
+  margin-left: 420px;
+}
+
+.wedding-image{
+  margin-left: 350px;
+}
+.haldi{
+
+  width: 100%;
+ 
+  background-color: white;
+  padding: 100px !important;
+}
+
 .card-title {
   font-size: 2em;
   font-weight: 700;
@@ -18,7 +61,7 @@
 .font-details {
   font-size: 3em;
   font-weight: 500;
-  color: #231d5af8;
+  color:white
 }
 
 .font-details-b {

@@ -1,5 +1,11 @@
-import L_HTML5 from '../../assets/img/skills/html-5.svg';
-import L_CSS3 from '../../assets/img/skills/css3.svg';
+import HALDI from '../../assets/img/skills/haldi.png';
+import BRIDE from '../../assets/img/skills/bride.jpeg';
+import MEHENDI from '../../assets/img/skills/mehendi.png';
+import SANGEET from '../../assets/img/skills/sangeet.jpeg';
+import WEDDING from '../../assets/img/skills/wedding.jpeg';
+import GROOMWELCOME from '../../assets/img/skills/groom_welcome.png';
+
+
 import L_SASS from '../../assets/img/skills/sass-1.svg';
 import L_REACT from '../../assets/img/skills/react.svg';
 import L_REDUX from '../../assets/img/skills/redux.svg';
@@ -32,59 +38,60 @@ import L_INTELLIJ from '../../assets/img/skills/intellij.svg.png'
 export const skills = {
 	frontend: [
 		{
-			link: 'https://en.wikipedia.org/wiki/HTML5',
-			imgAltText: 'HTML 5',
-			imgSrc: L_HTML5,
-			skillName: 'HTML5',
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Haldi',
+			imgSrc: HALDI,
+			skillName: 'HALDI',
 		},
+		
+	],
+
+	bride: [
 		{
-			link: 'https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-css-3-dcd7fa6122e1',
-			imgAltText: 'CSS 3',
-			imgSrc: L_CSS3,
-			skillName: 'CSS3',
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Bride Making',
+			imgSrc: BRIDE,
+			skillName: 'BRIDE MAKING CEREMONY',
 		},
+		
+	],
+
+	mehendi: [
 		{
-			link: 'https://www.javascript.com/',
-			imgAltText: 'JavaScript',
-			imgSrc: L_JAVASCRIPT,
-			skillName: 'JavaScript',
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Mehendi',
+			imgSrc: MEHENDI,
+			skillName: 'MEHENDI',
 		},
+		
+	],
+
+	sangeet: [
 		{
-			link: 'https://sass-lang.com/',
-			imgAltText: 'Sass',
-			imgSrc: L_SASS,
-			skillName: 'Sass',
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Sangeet',
+			imgSrc: SANGEET,
+			skillName: 'SANGEET & RECEPTION',
 		},
+		
+	],
+	kalyanam: [
 		{
-			link: 'https://reactjs.org/',
-			imgAltText: 'React JS',
-			imgSrc: L_REACT,
-			skillName: 'React JS',
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Kalyanam',
+			imgSrc: WEDDING,
+			skillName: 'Kalyanam',
 		},
+		
+	],
+	groomWelcome: [
 		{
-			link: 'https://redux.js.org/',
-			imgAltText: 'Redux',
-			imgSrc: L_REDUX,
-			skillName: 'Redux',
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'GROOM_WELCOME',
+			imgSrc: GROOMWELCOME,
+			skillName: 'Groom Welcome',
 		},
-		{
-			link: 'https://reacttraining.com/react-router/',
-			imgAltText: 'React Router',
-			imgSrc: L_REACT_ROUTER,
-			skillName: 'React Router',
-		},
-		{
-			link: 'https://react.semantic-ui.com/',
-			imgAltText: 'Semantic UI',
-			imgSrc: L_SEMANTIC_UI,
-			skillName: 'Semantic UI',
-		},
-		{
-			link: 'https://react-bootstrap.github.io/',
-			imgAltText: 'React Bootstrap',
-			imgSrc: L_REACT_BOOTSTRAP,
-			skillName: 'React Bootstrap',
-		},
+		
 	],
 
 	backend: [

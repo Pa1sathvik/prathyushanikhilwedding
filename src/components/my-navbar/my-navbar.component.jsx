@@ -18,8 +18,8 @@ const MyNavbar = () => {
 					<Navbar.Collapse id="basic-navbar-nav">
 						<Nav className="mr-auto ">
 							<Nav.Link href="#home" className='link'>Home</Nav.Link>
-							<Nav.Link href="#about" className='link'>About</Nav.Link>
-							<Nav.Link href="#skills" className='link'>Skills</Nav.Link>
+							<Nav.Link href="#about" className='link'>About Us</Nav.Link>
+							<Nav.Link href="#events" className='link'>Events</Nav.Link>
 							<Nav.Link href="#experience" className='link'>Experience</Nav.Link>
 							
 							<Nav.Link href="#contact" className='link'>Contact</Nav.Link>
