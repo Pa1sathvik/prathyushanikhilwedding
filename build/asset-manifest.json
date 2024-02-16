@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/prathyushanikhilwedding/static/css/main.e2b9405b.chunk.css",
-    "main.js": "/prathyushanikhilwedding/static/js/main.15b82231.chunk.js",
-    "main.js.map": "/prathyushanikhilwedding/static/js/main.15b82231.chunk.js.map",
+    "main.js": "/prathyushanikhilwedding/static/js/main.2ad7a36a.chunk.js",
+    "main.js.map": "/prathyushanikhilwedding/static/js/main.2ad7a36a.chunk.js.map",
     "runtime-main.js": "/prathyushanikhilwedding/static/js/runtime-main.d6f92c76.js",
     "runtime-main.js.map": "/prathyushanikhilwedding/static/js/runtime-main.d6f92c76.js.map",
     "static/css/2.4b694195.chunk.css": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css",
-    "static/js/2.18c7820e.chunk.js": "/prathyushanikhilwedding/static/js/2.18c7820e.chunk.js",
-    "static/js/2.18c7820e.chunk.js.map": "/prathyushanikhilwedding/static/js/2.18c7820e.chunk.js.map",
+    "static/js/2.484b6640.chunk.js": "/prathyushanikhilwedding/static/js/2.484b6640.chunk.js",
+    "static/js/2.484b6640.chunk.js.map": "/prathyushanikhilwedding/static/js/2.484b6640.chunk.js.map",
     "index.html": "/prathyushanikhilwedding/index.html",
-    "precache-manifest.ec23175b64b96f587cc636bbf62230c5.js": "/prathyushanikhilwedding/precache-manifest.ec23175b64b96f587cc636bbf62230c5.js",
+    "precache-manifest.28c61960b2ddfecb2b5e73dfbbd32d7d.js": "/prathyushanikhilwedding/precache-manifest.28c61960b2ddfecb2b5e73dfbbd32d7d.js",
     "service-worker.js": "/prathyushanikhilwedding/service-worker.js",
     "static/css/2.4b694195.chunk.css.map": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css.map",
     "static/css/main.e2b9405b.chunk.css.map": "/prathyushanikhilwedding/static/css/main.e2b9405b.chunk.css.map",
-    "static/js/2.18c7820e.chunk.js.LICENSE.txt": "/prathyushanikhilwedding/static/js/2.18c7820e.chunk.js.LICENSE.txt",
+    "static/js/2.484b6640.chunk.js.LICENSE.txt": "/prathyushanikhilwedding/static/js/2.484b6640.chunk.js.LICENSE.txt",
     "static/media/GroomWelcome.jpeg": "/prathyushanikhilwedding/static/media/GroomWelcome.c64da625.jpeg",
     "static/media/Slide1-modified.jpeg": "/prathyushanikhilwedding/static/media/Slide1-modified.d57d162b.jpeg",
     "static/media/semantic.min.css": "/prathyushanikhilwedding/static/media/outline-icons.ef60a4f6.woff",
@@ -42,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.d6f92c76.js",
     "static/css/2.4b694195.chunk.css",
-    "static/js/2.18c7820e.chunk.js",
+    "static/js/2.484b6640.chunk.js",
     "static/css/main.e2b9405b.chunk.css",
-    "static/js/main.15b82231.chunk.js"
+    "static/js/main.2ad7a36a.chunk.js"
   ]
 }
