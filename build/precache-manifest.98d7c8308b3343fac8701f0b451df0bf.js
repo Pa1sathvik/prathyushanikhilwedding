@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0353f2ce349319ba854e1a7929b47afc",
+    "revision": "830047504769bca4c4d592c867cdc16e",
     "url": "/prathyushanikhilwedding/index.html"
   },
   {
-    "revision": "e4912d6d3379a9dba55c",
+    "revision": "1fc444dffbd835b4d261",
     "url": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css"
   },
   {
-    "revision": "4f6020629789f4866e94",
-    "url": "/prathyushanikhilwedding/static/css/main.f8d85f27.chunk.css"
+    "revision": "e6f8a11b3ceae3f38182",
+    "url": "/prathyushanikhilwedding/static/css/main.865c9611.chunk.css"
   },
   {
-    "revision": "e4912d6d3379a9dba55c",
-    "url": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js"
+    "revision": "1fc444dffbd835b4d261",
+    "url": "/prathyushanikhilwedding/static/js/2.894e222f.chunk.js"
   },
   {
     "revision": "cb0ac2158e9efafffed2d7c090f60a1d",
-    "url": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js.LICENSE.txt"
+    "url": "/prathyushanikhilwedding/static/js/2.894e222f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f6020629789f4866e94",
-    "url": "/prathyushanikhilwedding/static/js/main.77e8b109.chunk.js"
+    "revision": "e6f8a11b3ceae3f38182",
+    "url": "/prathyushanikhilwedding/static/js/main.d872ed76.chunk.js"
   },
   {
     "revision": "643ff21e51f8bbc7eb0c",
@@ -124,10 +124,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prathyushanikhilwedding/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "78885993baabc5a514bb898eab88e065",
-    "url": "/prathyushanikhilwedding/static/media/informatica.78885993.png"
-  },
-  {
     "revision": "2b513a8c95d41092a60e1ec2e85fbbef",
     "url": "/prathyushanikhilwedding/static/media/intellij.svg.2b513a8c.png"
   },
@@ -194,9 +190,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8b9abca1aa54e63ecfa8d68247044f9",
     "url": "/prathyushanikhilwedding/static/media/wedding.e8b9abca.jpeg"
-  },
-  {
-    "revision": "d9f798c0c279b090ea96b6cdcd2bae37",
-    "url": "/prathyushanikhilwedding/static/media/yodlee.d9f798c0.svg"
   }
 ]);
