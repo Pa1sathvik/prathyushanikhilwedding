@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/prathyushanikhilwedding/static/css/main.f8d85f27.chunk.css",
-    "main.js": "/prathyushanikhilwedding/static/js/main.77e8b109.chunk.js",
-    "main.js.map": "/prathyushanikhilwedding/static/js/main.77e8b109.chunk.js.map",
+    "main.css": "/prathyushanikhilwedding/static/css/main.865c9611.chunk.css",
+    "main.js": "/prathyushanikhilwedding/static/js/main.d872ed76.chunk.js",
+    "main.js.map": "/prathyushanikhilwedding/static/js/main.d872ed76.chunk.js.map",
     "runtime-main.js": "/prathyushanikhilwedding/static/js/runtime-main.d6f92c76.js",
     "runtime-main.js.map": "/prathyushanikhilwedding/static/js/runtime-main.d6f92c76.js.map",
     "static/css/2.4b694195.chunk.css": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css",
-    "static/js/2.cb4ad202.chunk.js": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js",
-    "static/js/2.cb4ad202.chunk.js.map": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js.map",
+    "static/js/2.894e222f.chunk.js": "/prathyushanikhilwedding/static/js/2.894e222f.chunk.js",
+    "static/js/2.894e222f.chunk.js.map": "/prathyushanikhilwedding/static/js/2.894e222f.chunk.js.map",
     "index.html": "/prathyushanikhilwedding/index.html",
-    "precache-manifest.3978c3d4fe6ceb5c12ff1324f8e81c9b.js": "/prathyushanikhilwedding/precache-manifest.3978c3d4fe6ceb5c12ff1324f8e81c9b.js",
+    "precache-manifest.98d7c8308b3343fac8701f0b451df0bf.js": "/prathyushanikhilwedding/precache-manifest.98d7c8308b3343fac8701f0b451df0bf.js",
     "service-worker.js": "/prathyushanikhilwedding/service-worker.js",
     "static/css/2.4b694195.chunk.css.map": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css.map",
-    "static/css/main.f8d85f27.chunk.css.map": "/prathyushanikhilwedding/static/css/main.f8d85f27.chunk.css.map",
-    "static/js/2.cb4ad202.chunk.js.LICENSE.txt": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js.LICENSE.txt",
+    "static/css/main.865c9611.chunk.css.map": "/prathyushanikhilwedding/static/css/main.865c9611.chunk.css.map",
+    "static/js/2.894e222f.chunk.js.LICENSE.txt": "/prathyushanikhilwedding/static/js/2.894e222f.chunk.js.LICENSE.txt",
     "static/media/GroomWelcome.jpeg": "/prathyushanikhilwedding/static/media/GroomWelcome.c64da625.jpeg",
     "static/media/Satya-Puja.jpeg": "/prathyushanikhilwedding/static/media/Satya-Puja.ae6d42e7.jpeg",
     "static/media/Slide1-modified.jpeg": "/prathyushanikhilwedding/static/media/Slide1-modified.d57d162b.jpeg",
@@ -28,7 +28,6 @@
     "static/media/groomMehendi.jpg": "/prathyushanikhilwedding/static/media/groomMehendi.cf8d0cd1.jpg",
     "static/media/groomsangeet.png": "/prathyushanikhilwedding/static/media/groomsangeet.0f4e763d.png",
     "static/media/haldi.png": "/prathyushanikhilwedding/static/media/haldi.5c1d01f2.png",
-    "static/media/informatica.png": "/prathyushanikhilwedding/static/media/informatica.78885993.png",
     "static/media/intellij.svg.png": "/prathyushanikhilwedding/static/media/intellij.svg.2b513a8c.png",
     "static/media/java.png": "/prathyushanikhilwedding/static/media/java.77434785.png",
     "static/media/javascript.svg": "/prathyushanikhilwedding/static/media/javascript.2d2e31cc.svg",
@@ -40,14 +39,13 @@
     "static/media/slide2.webp": "/prathyushanikhilwedding/static/media/slide2.902e4e6a.webp",
     "static/media/springboot.svg": "/prathyushanikhilwedding/static/media/springboot.9146a4d3.svg",
     "static/media/sql-dev.svg": "/prathyushanikhilwedding/static/media/sql-dev.75329f70.svg",
-    "static/media/wedding.jpeg": "/prathyushanikhilwedding/static/media/wedding.e8b9abca.jpeg",
-    "static/media/yodlee.svg": "/prathyushanikhilwedding/static/media/yodlee.d9f798c0.svg"
+    "static/media/wedding.jpeg": "/prathyushanikhilwedding/static/media/wedding.e8b9abca.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d6f92c76.js",
     "static/css/2.4b694195.chunk.css",
-    "static/js/2.cb4ad202.chunk.js",
-    "static/css/main.f8d85f27.chunk.css",
-    "static/js/main.77e8b109.chunk.js"
+    "static/js/2.894e222f.chunk.js",
+    "static/css/main.865c9611.chunk.css",
+    "static/js/main.d872ed76.chunk.js"
   ]
 }
