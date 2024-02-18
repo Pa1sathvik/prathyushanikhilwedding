@@ -30,6 +30,57 @@ const App = () => {
 		
 		<Routes>
 		
+		<Route exact path="/prathyushanikhilwedding" element={<div className="App" style={{ position: 'relative' }}>
+			<MyCarousal />
+			
+			<MyNavbar />
+
+			<div>
+				
+				<div>
+					<Container className="container-box rounded">
+						
+							<IntroDesc />
+							
+						
+					</Container>
+				</div>
+			
+		</div>
+			<div>
+				
+					<div>
+						<Container className="container-box rounded">
+							<Fade duration={500}>
+								<About />
+								
+							</Fade>
+						</Container>
+					</div>
+				
+			</div>
+			<div>
+			<Container className="container-box rounded">
+				
+					
+					<Skills />
+				
+			</Container>
+			</div>
+			
+
+			<Container className="container-box rounded">
+				<Fade duration={500}>
+					<hr />
+					<ContactForm />
+				</Fade>
+			</Container>
+
+			<hr />
+			<FooterPanel />
+		</div>}>
+			
+			</Route>
 			<Route path="/bride" element={<div className="App" style={{ position: 'relative' }}>
 			<MyCarousal />
 			
