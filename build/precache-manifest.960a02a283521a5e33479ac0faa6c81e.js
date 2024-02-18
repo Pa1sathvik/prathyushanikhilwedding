@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "beb839e571424b5be4aa043c365c724d",
+    "revision": "bc360b26ea8322d6100bf90a9109c4b9",
     "url": "/prathyushanikhilwedding/index.html"
   },
   {
-    "revision": "c9811be60489847c0a47",
+    "revision": "b52229c5c61125b8f27e",
     "url": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css"
   },
   {
-    "revision": "a7f97c23ac1fd2b4784b",
-    "url": "/prathyushanikhilwedding/static/css/main.51528008.chunk.css"
+    "revision": "fe8b726688cc7b2c3726",
+    "url": "/prathyushanikhilwedding/static/css/main.7902c942.chunk.css"
   },
   {
-    "revision": "c9811be60489847c0a47",
-    "url": "/prathyushanikhilwedding/static/js/2.6e8f53b2.chunk.js"
+    "revision": "b52229c5c61125b8f27e",
+    "url": "/prathyushanikhilwedding/static/js/2.9991293a.chunk.js"
   },
   {
-    "revision": "41250ae38ccb92b21b89ed9b12ba4701",
-    "url": "/prathyushanikhilwedding/static/js/2.6e8f53b2.chunk.js.LICENSE.txt"
+    "revision": "cb0ac2158e9efafffed2d7c090f60a1d",
+    "url": "/prathyushanikhilwedding/static/js/2.9991293a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7f97c23ac1fd2b4784b",
-    "url": "/prathyushanikhilwedding/static/js/main.cd4d47c2.chunk.js"
+    "revision": "fe8b726688cc7b2c3726",
+    "url": "/prathyushanikhilwedding/static/js/main.4d34a252.chunk.js"
   },
   {
     "revision": "643ff21e51f8bbc7eb0c",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c64da625dcb88b1fb1ff963940284930",
     "url": "/prathyushanikhilwedding/static/media/GroomWelcome.c64da625.jpeg"
+  },
+  {
+    "revision": "ae6d42e78b0384bd273ead85721e64ad",
+    "url": "/prathyushanikhilwedding/static/media/Satya-Puja.ae6d42e7.jpeg"
   },
   {
     "revision": "d57d162b181704603048a637a92434d7",
@@ -82,6 +86,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5bf8a3ca0bb6bfb41063cdd672be9ad9",
     "url": "/prathyushanikhilwedding/static/media/graphql.5bf8a3ca.svg"
+  },
+  {
+    "revision": "d06ecefca160e09075fee79d1e58b32e",
+    "url": "/prathyushanikhilwedding/static/media/groom-haldi.d06ecefc.jpeg"
+  },
+  {
+    "revision": "cf8d0cd15903e7402217dfee0d58cb94",
+    "url": "/prathyushanikhilwedding/static/media/groomMehendi.cf8d0cd1.jpg"
+  },
+  {
+    "revision": "0f4e763d1ced1956ab24d3ae70499010",
+    "url": "/prathyushanikhilwedding/static/media/groomsangeet.0f4e763d.png"
   },
   {
     "revision": "5c1d01f29721add405f755712fdbf856",
