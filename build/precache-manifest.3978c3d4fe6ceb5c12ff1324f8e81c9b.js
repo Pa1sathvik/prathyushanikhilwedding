@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc360b26ea8322d6100bf90a9109c4b9",
+    "revision": "0353f2ce349319ba854e1a7929b47afc",
     "url": "/prathyushanikhilwedding/index.html"
   },
   {
-    "revision": "b52229c5c61125b8f27e",
+    "revision": "e4912d6d3379a9dba55c",
     "url": "/prathyushanikhilwedding/static/css/2.4b694195.chunk.css"
   },
   {
-    "revision": "fe8b726688cc7b2c3726",
-    "url": "/prathyushanikhilwedding/static/css/main.7902c942.chunk.css"
+    "revision": "4f6020629789f4866e94",
+    "url": "/prathyushanikhilwedding/static/css/main.f8d85f27.chunk.css"
   },
   {
-    "revision": "b52229c5c61125b8f27e",
-    "url": "/prathyushanikhilwedding/static/js/2.9991293a.chunk.js"
+    "revision": "e4912d6d3379a9dba55c",
+    "url": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js"
   },
   {
     "revision": "cb0ac2158e9efafffed2d7c090f60a1d",
-    "url": "/prathyushanikhilwedding/static/js/2.9991293a.chunk.js.LICENSE.txt"
+    "url": "/prathyushanikhilwedding/static/js/2.cb4ad202.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe8b726688cc7b2c3726",
-    "url": "/prathyushanikhilwedding/static/js/main.4d34a252.chunk.js"
+    "revision": "4f6020629789f4866e94",
+    "url": "/prathyushanikhilwedding/static/js/main.77e8b109.chunk.js"
   },
   {
     "revision": "643ff21e51f8bbc7eb0c",
