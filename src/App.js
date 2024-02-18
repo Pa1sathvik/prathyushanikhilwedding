@@ -1,16 +1,12 @@
 import React from 'react';
 import MyNavbar from './components/my-navbar/my-navbar.component';
 import MyCarousal from './components/my-carousal/my-carousal.component';
-import MyTitleMessage from './components/title-message/title-message.component';
 import About from './pages/about/about.component';
 import Skills from './pages/skills/skills.component';
 import Groom from './pages/skills/Groom.jsx';
 import Container from 'react-bootstrap/Container';
 import IntroDesc from './pages/about/IntroDesc';
-//import TimeLine from './components/projects-timeline/projects-timeline.component';
-import Experience from './pages/experience/experience.component';
 import Fade from 'react-reveal/Fade';
-import Slide from 'react-reveal/Slide';
 import {
 	BrowserRouter as Router,
 	Switch,
