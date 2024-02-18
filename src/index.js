@@ -9,7 +9,7 @@ import 'semantic-ui-css/semantic.min.css'
 ReactDOM.render(
   
   <ThemeProvider theme={theme}>
-    <BrowserRouter>
+    <BrowserRouter basename="/prathyushanikhilwedding">
     <App />
     </BrowserRouter>
   </ThemeProvider>,

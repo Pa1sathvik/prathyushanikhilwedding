@@ -13,6 +13,7 @@ const MyNavbar = () => {
 						<img className="logo" src={Logo} alt="NO_IMAGE" />
 					</Navbar.Brand>
 				</div>
+				
 				<div>
 					<Navbar.Toggle aria-controls="basic-navbar-nav" />
 					<Navbar.Collapse id="basic-navbar-nav">

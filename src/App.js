@@ -4,8 +4,9 @@ import MyCarousal from './components/my-carousal/my-carousal.component';
 import MyTitleMessage from './components/title-message/title-message.component';
 import About from './pages/about/about.component';
 import Skills from './pages/skills/skills.component';
-import Groom from './pages/skills/Groom';
+import Groom from './pages/skills/Groom.jsx';
 import Container from 'react-bootstrap/Container';
+import IntroDesc from './pages/about/IntroDesc';
 //import TimeLine from './components/projects-timeline/projects-timeline.component';
 import Experience from './pages/experience/experience.component';
 import Fade from 'react-reveal/Fade';
@@ -33,11 +34,23 @@ const App = () => {
 		
 		<Routes>
 		
-			<Route path="/prathyushanikhilwedding/bride" element={<div className="App" style={{ position: 'relative' }}>
+			<Route path="/bride" element={<div className="App" style={{ position: 'relative' }}>
 			<MyCarousal />
 			
 			<MyNavbar />
 
+			<div>
+				
+				<div>
+					<Container className="container-box rounded">
+						<Fade duration={500}>
+							<IntroDesc />
+							
+						</Fade>
+					</Container>
+				</div>
+			
+		</div>
 			<div>
 				
 					<div>
@@ -72,7 +85,7 @@ const App = () => {
 		</div>}>
 			
 			</Route>
-			<Route path="/prathyushanikhilwedding/groom" element={<div className="App" style={{ position: 'relative' }}>
+			<Route path="/groom" element={<div className="App" style={{ position: 'relative' }}>
 			<MyCarousal />
 			
 			<MyNavbar />
