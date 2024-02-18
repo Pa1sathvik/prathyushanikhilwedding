@@ -43,10 +43,10 @@ const App = () => {
 				
 				<div>
 					<Container className="container-box rounded">
-						<Fade duration={500}>
+						
 							<IntroDesc />
 							
-						</Fade>
+						
 					</Container>
 				</div>
 			
@@ -89,7 +89,18 @@ const App = () => {
 			<MyCarousal />
 			
 			<MyNavbar />
-
+			<div>
+				
+				<div>
+					<Container className="container-box rounded">
+						
+							<IntroDesc />
+							
+						
+					</Container>
+				</div>
+			
+		</div>
 			<div>
 				
 					<div>
