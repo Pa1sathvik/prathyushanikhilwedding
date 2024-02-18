@@ -4,6 +4,11 @@ import MEHENDI from '../../assets/img/skills/mehendi.png';
 import SANGEET from '../../assets/img/skills/sangeet.jpeg';
 import WEDDING from '../../assets/img/skills/wedding.jpeg';
 import GROOMWELCOME from '../../assets/img/skills/GroomWelcome.jpeg';
+import GROOMMAKING from '../../assets/img/skills/groomMaking.jpeg';
+import GROOMHALDI from '../../assets/img/skills/groom-haldi.jpeg';
+import GROOMMEHENDI from '../../assets/img/skills/groomMehendi.jpg';
+import GROOMSANGEET from '../../assets/img/skills/groomsangeet.png';
+import SATYANARAYANASWAMYVRATHAM from '../../assets/img/skills/Satya-Puja.jpeg';
 import L_GIT from '../../assets/img/skills/git-icon.svg';
 import L_DOCKER from '../../assets/img/skills/docker.png';
 import L_GITHUB_PAGES from '../../assets/img/skills/github.svg';
@@ -36,12 +41,32 @@ export const skills = {
 		
 	],
 
+	groomHaldi: [
+		{
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Haldi',
+			imgSrc: GROOMHALDI,
+			skillName: 'HALDI',
+		},
+		
+	],
+
 	bride: [
 		{
 			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
 			imgAltText: 'Bride Making',
 			imgSrc: BRIDE,
 			skillName: 'BRIDE MAKING CEREMONY',
+		},
+		
+	],
+
+	groom: [
+		{
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Groom Making',
+			imgSrc: GROOMMAKING,
+			skillName: 'GROOM MAKING CEREMONY',
 		},
 		
 	],
@@ -56,12 +81,42 @@ export const skills = {
 		
 	],
 
+	groomMehendi: [
+		{
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Mehendi',
+			imgSrc: GROOMMEHENDI,
+			skillName: 'MEHENDI',
+		},
+		
+	],
+
 	sangeet: [
 		{
 			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
 			imgAltText: 'Sangeet',
 			imgSrc: SANGEET,
 			skillName: 'SANGEET & RECEPTION',
+		},
+		
+	],
+
+	satyanarayanaswamy: [
+		{
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Satyanarayana Swamy Vratham',
+			imgSrc: SATYANARAYANASWAMYVRATHAM,
+			skillName: 'SATYANARAYANA SWAMY VRATHAM',
+		},
+		
+	],
+
+	groomSangeet: [
+		{
+			link: 'https://www.ruraltreasures.com/blogs/news/the-traditional-significance-of-haldi-ceremony',
+			imgAltText: 'Sangeet',
+			imgSrc: GROOMSANGEET,
+			skillName: 'SANGEET',
 		},
 		
 	],

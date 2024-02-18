@@ -43,6 +43,13 @@
   .groom-image{
     margin:auto
   }
+  .groommaking-image{
+    margin:auto
+  }
+
+  .groomhaldi-image{
+    margin:auto
+  }
   
   .mehendi-image{
     margin:auto
@@ -56,8 +63,24 @@
     margin:auto;
   }
 
+  .groommehendi-image {
+    margin:auto;
+  }
+
+  .groomsangeet-image{
+    margin: auto;
+    height: 250px;
+    width: 250px;
+  }
+
   .haldii-image{
     margin:auto;
+  }
+
+  .satya-image{
+    margin:auto;
+    height: 250px;
+    width: 250px;
   }
 }
 
@@ -67,8 +90,30 @@
 
     margin-left:250px;
   }
+  .satya-image{
+    margin-left:300px;
+    height: 300px;
+  }
 
+  .groomsangeet-image{
+    margin-left:370px;
+    height: 300px;
+  }
   .groom-image{
+    margin-left:420px;
+  }
+
+  .groomhaldi-image{
+    margin-left:350px;
+    height: 300px;
+  }
+
+  .groommehendi-image {
+    margin-left:360px;
+    height: 300px;
+  }
+
+  .groommaking-image{
     margin-left:420px;
   }
   
