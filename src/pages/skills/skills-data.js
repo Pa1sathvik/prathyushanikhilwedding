@@ -30,6 +30,7 @@ import L_VSCODE from '../../assets/img/skills/vscode.jpeg'
 import L_SQLDEV from '../../assets/img/skills/sql-dev.svg'
 import L_INTELLIJ from '../../assets/img/skills/intellij.svg.png'
 
+
 export const skills = {
 	frontend: [
 		{
@@ -39,6 +40,41 @@ export const skills = {
 			skillName: 'HALDI',
 		},
 		
+	],
+
+	imagesGallery:[
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		},
+		{
+			alt: 'Haldi',
+			src: HALDI,
+		}
 	],
 
 	groomHaldi: [

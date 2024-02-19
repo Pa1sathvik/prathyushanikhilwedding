@@ -14,7 +14,7 @@ import {
 	Routes,
 	Link
   } from "react-router-dom";
-  
+  import ImageGallery from './components/ImagesGallery';
   
 import ContactForm from './pages/contact-form/contact-form.component';
 import { Parallax } from 'react-parallax';
@@ -96,6 +96,7 @@ const App = () => {
 						
 					</Container>
 				</div>
+			
 			
 		</div>
 			<div>
