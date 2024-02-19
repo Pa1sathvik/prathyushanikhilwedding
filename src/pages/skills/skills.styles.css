@@ -25,11 +25,31 @@
   font-size: 120%;
 
 }
+.yellow{
+    width: 16px;
+    height: 16px;
+    border-radius: 10%;
+    background-color: yellow;
+    color: black;
+}
+
+.green{
+  width: 16px;
+  height: 16px;
+  color: white;
+  border-radius: 10%;
+  background-color: green;
+  
+}
 
 
 .event-date{
   margin: auto;
   font-size: large;
+  display: flex; /* Arrange spans horizontally */
+   /* Align spans vertically if needed */
+  justify-content: space-between; /* Add space between spans */
+  flex-direction: column;
 }
 
 
@@ -39,6 +59,16 @@
   .haldi-image{
 
     margin:auto;
+  }
+
+  .event-date{
+    margin: auto;
+    font-size: large;
+    display: flex; /* Arrange spans horizontally */
+     /* Align spans vertically if needed */
+    justify-content: space-between; /* Add space between spans */
+    flex-direction: column;
+   
   }
   .groom-image{
     margin:auto

@@ -47,10 +47,16 @@ const Groom = () => {
 										<span className='event-message'>Haldi  is a pre-wedding ceremony performed a day or two before the wedding. Family members and friends playfully slather the groom in a paste of turmeric, oil, and milk to prevent evil spirits from harming the to-be-wed couple.</span>
 										<div className='event-date'>
 										<span>
+											<strong>Haldi Dresscode : </strong>
+											<strong className='yellow'>Yellow</strong>
+											
+										</span>
+										
+										<span>
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Morning 7 AM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/14%C2%B054'13.2%22N+78%C2%B000'40.1%22E/@14.9037652,78.0108261,20z/data=!4m5!3m4!4b1!8m2!3d14.903679!4d78.011148?entry=ttu" target="_blank">Groom's Home - Sapthagiri Nilayam, Tadipatri</Button>
@@ -97,7 +103,7 @@ const Groom = () => {
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Morning 11 AM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/14%C2%B054'13.2%22N+78%C2%B000'40.1%22E/@14.9037652,78.0108261,20z/data=!4m5!3m4!4b1!8m2!3d14.903679!4d78.011148?entry=ttu" target="_blank">Groom's Home - Sapthagiri Nilayam, Tadipatri</Button>
@@ -143,13 +149,19 @@ const Groom = () => {
 										<div className='event-date'>
 											
 										<span>
-											<strong>Event Date : </strong>
-											<strong>February 29th, 2024 - Evening 6 PM IST</strong>
+											<strong>Mehendi Dresscode : </strong>
+											<strong className='green'>Green</strong>
 										</span>
-										<br/>
+										
+										
+										<span>
+											<strong>Event Date : </strong>
+											<strong>February 29th, 2024 - Evening 5 PM IST</strong>
+										</span>
+										
 										<span>
 											<strong>Location : </strong>
-											<Button variant="link" className='location' href="https://www.google.com/maps/place/14%C2%B054'13.2%22N+78%C2%B000'40.1%22E/@14.9037652,78.0108261,20z/data=!4m5!3m4!4b1!8m2!3d14.903679!4d78.011148?entry=ttu" target="_blank">Groom's Home - Sapthagiri Nilayam, Tadipatri</Button>
+											<Button variant="link" className='location' href="https://maps.app.goo.gl/FVwWkbkm7hb2KS7w5?g_st=iw" target="_blank">Ammavarisala upstairs, Tadipatri</Button>
 										
 										</span>
 										</div>
@@ -191,12 +203,12 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											<strong>February 29th, 2024 - Evening 7 PM IST.</strong>
+											<strong>February 29th, 2024 - Evening 6 PM IST.</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
-											<Button variant="link" className='location' href="https://www.google.com/maps/place/Hotel+Seven+Hills/@15.7440341,79.2725726,17z/data=!3m1!4b1!4m9!3m8!1s0x3bb5318aa77361cd:0x76def16a45584fac!5m2!4m1!1i2!8m2!3d15.7440341!4d79.2751475!16s%2Fg%2F11h2fqf3dg?entry=ttu" target="_blank">Seven Hills Function Hall, Markapur</Button>
+											<Button variant="link" className='location' href="https://maps.app.goo.gl/FVwWkbkm7hb2KS7w5?g_st=iw" target="_blank">Ammavarisala upstairs, Tadipatri</Button>
 										
 											
 										</span>
@@ -240,7 +252,7 @@ const Groom = () => {
 											<strong>Event Date : </strong>
 											<strong>March 1st, 2024 - Noon 2 PM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/Hotel+Seven+Hills/@15.7440341,79.2725726,17z/data=!3m1!4b1!4m9!3m8!1s0x3bb5318aa77361cd:0x76def16a45584fac!5m2!4m1!1i2!8m2!3d15.7440341!4d79.2751475!16s%2Fg%2F11h2fqf3dg?entry=ttu" target="_blank">Seven Hills Function Hall, Markapur</Button>
@@ -287,7 +299,7 @@ const Groom = () => {
 											<strong>Event Date : </strong>
 											<strong>March 1st, 2024 - Evening 7 PM IST.</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/Hotel+Seven+Hills/@15.7440341,79.2725726,17z/data=!3m1!4b1!4m9!3m8!1s0x3bb5318aa77361cd:0x76def16a45584fac!5m2!4m1!1i2!8m2!3d15.7440341!4d79.2751475!16s%2Fg%2F11h2fqf3dg?entry=ttu" target="_blank">Seven Hills Function Hall, Markapur</Button>
@@ -335,7 +347,7 @@ const Groom = () => {
 											<strong>Su Muhurtham : </strong>
 											<strong>March 02nd, 2024 - Morning 11:21 AM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/Srinivasa+Kalyana+Mandapam/@15.7399887,79.2520315,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb53143820b2683:0x78c004da4b0170f1!8m2!3d15.7399887!4d79.2546064!16s%2Fg%2F11tn6y20vr?entry=ttu" target="_blank">Srinivasa Kalyana Mandapam, Markapur</Button>
@@ -381,7 +393,7 @@ const Groom = () => {
 											<strong>Event Date : </strong>
 											<strong>March 6th, 2024 - Evening 7 PM IST.</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/ANR+GARDENS/@14.8911938,77.9978073,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb40354e43b29e5:0x791f7b656103b691!8m2!3d14.8911938!4d78.0003822!16s%2Fg%2F11rk892xbq?entry=ttu" target="_blank">ANR Gardens, Tadipatri </Button>
@@ -428,7 +440,7 @@ const Groom = () => {
 											<strong>Event Date : </strong>
 											<strong>March 7th, 2024 - Morning 10 AM IST.</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/14%C2%B054'13.2%22N+78%C2%B000'40.1%22E/@14.9037652,78.0108261,20z/data=!4m5!3m4!4b1!8m2!3d14.903679!4d78.011148?entry=ttu" target="_blank">Groom's Home - Sapthagiri Nilayam, Tadipatri</Button>

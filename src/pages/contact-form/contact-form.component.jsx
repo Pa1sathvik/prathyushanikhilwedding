@@ -39,7 +39,7 @@ const ContactForm = () => {
 				</Row></div>
 					<div className='bride'><strong className='name'>Bride Contacts:</strong>
 					<br/>
-				<Row>
+				{/** <Row>
 					<Col className="d-flex justify-content-center flex-wrap">
 						
 						<div className="m-2">
@@ -50,7 +50,7 @@ const ContactForm = () => {
 							</a>
 						</div>
 					</Col>
-				</Row>
+				</Row>*/}
 				<Row>
 					<Col className="d-flex justify-content-center flex-wrap">
 						

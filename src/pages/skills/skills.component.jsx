@@ -48,10 +48,15 @@ const Skills = () => {
 										before the main event. Get ready for the giggles and happy tears! Join us for the bride's getting-ready party.</span>
 										<div className='event-date'>
 										<span>
+											<strong>Haldi Dresscode : </strong>
+											<strong className='yellow'>Yellow</strong>
+											
+										</span>
+										<span>
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Morning 10 AM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/10%2F457,+Municipality+Office+Area,+Zph+Boys+High+School+Ground,+Markapur,+Andhra+Pradesh+523316/@15.7413703,79.2699964,20z/data=!4m14!1m7!3m6!1s0x3bb531fc27dfe1cb:0xc2487677f77f7d6c!2sSatayamma+thalli+nilayam!8m2!3d15.7416128!4d79.269972!16s%2Fg%2F11hyxp6g4m!3m5!1s0x3bb5319851cce7cd:0x6954fb67b3ef2f52!8m2!3d15.7416084!4d79.2699631!16s%2Fg%2F11kq41pqw5?entry=ttu" target="_blank">Bride's Home - Srinivasa Nilayam, Markapur</Button>
@@ -97,7 +102,7 @@ const Skills = () => {
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Noon 12 PM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/10%2F457,+Municipality+Office+Area,+Zph+Boys+High+School+Ground,+Markapur,+Andhra+Pradesh+523316/@15.7413703,79.2699964,20z/data=!4m14!1m7!3m6!1s0x3bb531fc27dfe1cb:0xc2487677f77f7d6c!2sSatayamma+thalli+nilayam!8m2!3d15.7416128!4d79.269972!16s%2Fg%2F11hyxp6g4m!3m5!1s0x3bb5319851cce7cd:0x6954fb67b3ef2f52!8m2!3d15.7416084!4d79.2699631!16s%2Fg%2F11kq41pqw5?entry=ttu" target="_blank">Bride's Home - Srinivasa Nilayam, Markapur</Button>
@@ -142,10 +147,14 @@ const Skills = () => {
 										<div className='event-date'>
 											
 										<span>
+											<strong>Mehendi Dresscode : </strong>
+											<strong className='green'>Green</strong>
+										</span>
+										<span>
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Evening 7 PM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/10%2F457,+Municipality+Office+Area,+Zph+Boys+High+School+Ground,+Markapur,+Andhra+Pradesh+523316/@15.7413703,79.2699964,20z/data=!4m14!1m7!3m6!1s0x3bb531fc27dfe1cb:0xc2487677f77f7d6c!2sSatayamma+thalli+nilayam!8m2!3d15.7416128!4d79.269972!16s%2Fg%2F11hyxp6g4m!3m5!1s0x3bb5319851cce7cd:0x6954fb67b3ef2f52!8m2!3d15.7416084!4d79.2699631!16s%2Fg%2F11kq41pqw5?entry=ttu" target="_blank">Bride's Home - Srinivasa Nilayam, Markapur</Button>
@@ -192,7 +201,7 @@ const Skills = () => {
 											<strong>Event Date : </strong>
 											<strong>March 1st, 2024 - Noon 2 PM IST</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/Hotel+Seven+Hills/@15.7440341,79.2725726,17z/data=!3m1!4b1!4m9!3m8!1s0x3bb5318aa77361cd:0x76def16a45584fac!5m2!4m1!1i2!8m2!3d15.7440341!4d79.2751475!16s%2Fg%2F11h2fqf3dg?entry=ttu" target="_blank">Seven Hills Function Hall, Markapur</Button>
@@ -238,7 +247,7 @@ const Skills = () => {
 											<strong>Event Date : </strong>
 											<strong>March 1st, 2024 - Evening 7 PM IST.</strong>
 										</span>
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/Hotel+Seven+Hills/@15.7440341,79.2725726,17z/data=!3m1!4b1!4m9!3m8!1s0x3bb5318aa77361cd:0x76def16a45584fac!5m2!4m1!1i2!8m2!3d15.7440341!4d79.2751475!16s%2Fg%2F11h2fqf3dg?entry=ttu" target="_blank">Seven Hills Function Hall, Markapur</Button>
@@ -287,7 +296,7 @@ const Skills = () => {
 											<strong>March 02nd, 2024 - Morning 11:21 AM IST</strong>
 										</span>
 										
-										<br/>
+										
 										<span>
 											<strong>Location : </strong>
 											<Button variant="link" className='location' href="https://www.google.com/maps/place/Srinivasa+Kalyana+Mandapam/@15.7399887,79.2520315,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb53143820b2683:0x78c004da4b0170f1!8m2!3d15.7399887!4d79.2546064!16s%2Fg%2F11tn6y20vr?entry=ttu" target="_blank">Srinivasa Kalyana Mandapam, Markapur</Button>
