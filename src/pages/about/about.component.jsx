@@ -17,14 +17,14 @@ const About = () => {
 							<Row className="align-items-start p-2 my-details rounded">
 							
 							Hey everyone, welcome to our little corner of the web!
-							<br/><br/>We're  Prathyusha and  Nikhil,
+							<br/><br/>We're  Nikhil and  Prathyusha,
 							 and we're beyond excited to celebrate our wedding with you on March 2nd!! 
-								<br/>
-								<br />
-								Prathyusha, a spirited and independent woman, brings her passion for technology and expertise as a Networking Senior Specialist at NTT Data to every aspect of life. With a vibrant smile and a quick wit, she lights up any room and brings joy to those around her.
 								<br />
 								<br />
 								Nikhil, thrives as a Software Design Engineer at Tektronix, crafting solutions that shape the future. But beyond the lines of code lies a warm heart full of kindness, humor, and unwavering support. He's the first to lend a hand, always up for an adventure, and his gentle nature brings a sense of calm and stability to any situation.
+								<br/>
+								<br />
+								Prathyusha, a spirited and independent woman, brings her passion for technology and expertise as a Networking Senior Specialist at NTT Data to every aspect of life. With a vibrant smile and a quick wit, she lights up any room and brings joy to those around her.
 								<br />
 								<Col className="d-flex justify-content-center flex-wrap">
 									<div>

@@ -47,11 +47,7 @@ const Skills = () => {
 										<span className='event-message'>A ceremony of the bride's preparation precedes the wedding. Witness the beautiful tradition of the bride making ceremony 
 										before the main event. Get ready for the giggles and happy tears! Join us for the bride's getting-ready party.</span>
 										<div className='event-date'>
-										<span>
-											<strong>Haldi Dresscode : </strong>
-											<strong className='yellow'>Yellow</strong>
-											
-										</span>
+										
 										<span>
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Morning 10 AM IST</strong>
@@ -98,6 +94,11 @@ const Skills = () => {
 										<strong className='pre-header'>"HALDI Kissed !!"</strong>
 										<span className='event-message'>Haldi  is a pre-wedding ceremony performed a day or two before the wedding. Family members and friends playfully slather the bride in a paste of turmeric, oil, and milk to prevent evil spirits from harming the to-be-wed couple.</span>
 										<div className='event-date'>
+										<span>
+											<strong>Haldi Dresscode : </strong>
+											<strong className='yellow'>Yellow</strong>
+											
+										</span>
 										<span>
 											<strong>Event Date : </strong>
 											<strong>February 29th, 2024 - Noon 12 PM IST</strong>
