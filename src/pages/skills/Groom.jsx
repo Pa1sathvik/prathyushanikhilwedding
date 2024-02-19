@@ -48,7 +48,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Morning 7 AM IST
+											<strong>February 29th, 2024 - Morning 7 AM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -95,7 +95,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Morning 11 AM IST
+											<strong>February 29th, 2024 - Morning 11 AM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -144,7 +144,7 @@ const Groom = () => {
 											
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Evening 6 PM IST
+											<strong>February 29th, 2024 - Evening 6 PM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -191,7 +191,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Evening 7 PM IST.
+											<strong>February 29th, 2024 - Evening 7 PM IST.</strong>
 										</span>
 										<br/>
 										<span>
@@ -238,7 +238,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											March 1st, 2024 - Noon 2 PM IST
+											<strong>March 1st, 2024 - Noon 2 PM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -285,7 +285,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											March 1st, 2024 - Evening 7 PM IST.
+											<strong>March 1st, 2024 - Evening 7 PM IST.</strong>
 										</span>
 										<br/>
 										<span>
@@ -333,7 +333,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Su Muhurtham : </strong>
-											March 02nd, 2024 - Morning 11:21 AM IST
+											<strong>March 02nd, 2024 - Morning 11:21 AM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -379,7 +379,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											March 6th, 2024 - Evening 7 PM IST.
+											<strong>March 6th, 2024 - Evening 7 PM IST.</strong>
 										</span>
 										<br/>
 										<span>
@@ -426,7 +426,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											<strong>March 7th, 2024 - Noon 10 AM IST.</strong>
+											<strong>March 7th, 2024 - Morning 10 AM IST.</strong>
 										</span>
 										<br/>
 										<span>

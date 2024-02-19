@@ -5,13 +5,14 @@ import Image from 'react-bootstrap/Image';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Button } from 'react-bootstrap';
-
 // skills
 import { skills } from './skills-data';
 
 import './skills.styles.css';
 
 const Skills = () => {
+
+	
 	return (
 		<div className="pt-3 pb-3" id="events">
 			<h1 className="text-center font-details-b pb-4">WEDDING EVENTS</h1>
@@ -48,7 +49,7 @@ const Skills = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Morning 10 AM IST
+											<strong>February 29th, 2024 - Morning 10 AM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -94,7 +95,7 @@ const Skills = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Noon 12 PM IST
+											<strong>February 29th, 2024 - Noon 12 PM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -142,7 +143,7 @@ const Skills = () => {
 											
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Evening 7 PM IST
+											<strong>February 29th, 2024 - Evening 7 PM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -189,7 +190,7 @@ const Skills = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											March 1st, 2024 - Noon 2 PM IST
+											<strong>March 1st, 2024 - Noon 2 PM IST</strong>
 										</span>
 										<br/>
 										<span>
@@ -235,7 +236,7 @@ const Skills = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											March 1st, 2024 - Evening 7 PM IST.
+											<strong>March 1st, 2024 - Evening 7 PM IST.</strong>
 										</span>
 										<br/>
 										<span>
@@ -283,8 +284,9 @@ const Skills = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Su Muhurtham : </strong>
-											March 02nd, 2024 - Morning 11:21 AM IST
+											<strong>March 02nd, 2024 - Morning 11:21 AM IST</strong>
 										</span>
+										
 										<br/>
 										<span>
 											<strong>Location : </strong>
