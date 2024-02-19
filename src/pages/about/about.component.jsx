@@ -24,7 +24,7 @@ const About = () => {
 								Prathyusha, a spirited and independent woman, brings her passion for technology and expertise as a Networking Senior Specialist at NTT Data to every aspect of life. With a vibrant smile and a quick wit, she lights up any room and brings joy to those around her.
 								<br />
 								<br />
-								Nikhil, thrives as a Senior Software Engineer at Tektronix, crafting solutions that shape the future. But beyond the lines of code lies a warm heart full of kindness, humor, and unwavering support. He's the first to lend a hand, always up for an adventure, and his gentle nature brings a sense of calm and stability to any situation.
+								Nikhil, thrives as a Software Design Engineer at Tektronix, crafting solutions that shape the future. But beyond the lines of code lies a warm heart full of kindness, humor, and unwavering support. He's the first to lend a hand, always up for an adventure, and his gentle nature brings a sense of calm and stability to any situation.
 								<br />
 								<Col className="d-flex justify-content-center flex-wrap">
 									<div>

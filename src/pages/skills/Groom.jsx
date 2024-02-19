@@ -18,6 +18,53 @@ const Groom = () => {
 			<CardDeck>
 				<Row className="d-flex justify-content-around">
 					{/* Frontend */}
+					
+					<Col md={12}>
+						<Card className="focus mt-2 mb-2">
+							<Card.Body>
+								{/* Frontend */}
+								<Card.Title className="text-center  card-title">HALDI</Card.Title>
+								<hr />
+								<Card.Text className="card-text d-flex justify-content-start flex-column">
+									{skills.groomHaldi.map((skill, index) => (
+										<><span className="p-2" key={index}>
+										<a
+											className="text-dark text-decoration-none"
+											href={skill.link}
+											target="_blank"
+											rel="noopener noreferrer"
+										>
+											<Image
+												src={skill.imgSrc}
+												alt={skill.imgAltText}
+												rounded
+												className='groomhaldi-image img-fluid'
+												
+											></Image>{' '}
+											</a>
+										</span>
+										<strong className='pre-header'>"HALDI Kissed !!"</strong>
+										<span className='event-message'>Haldi  is a pre-wedding ceremony performed a day or two before the wedding. Family members and friends playfully slather the groom in a paste of turmeric, oil, and milk to prevent evil spirits from harming the to-be-wed couple.</span>
+										<div className='event-date'>
+										<span>
+											<strong>Event Date : </strong>
+											February 29th, 2024 - Morning 7 AM IST
+										</span>
+										<br/>
+										<span>
+											<strong>Location : </strong>
+											<Button variant="link" className='location' href="https://www.google.com/maps/place/14%C2%B054'13.2%22N+78%C2%B000'40.1%22E/@14.9037652,78.0108261,20z/data=!4m5!3m4!4b1!8m2!3d14.903679!4d78.011148?entry=ttu" target="_blank">Groom's Home - Sapthagiri Nilayam, Tadipatri</Button>
+										
+										</span>
+										</div>
+										</>
+										
+											
+									))}
+								</Card.Text>
+							</Card.Body>
+						</Card>
+					</Col>
 					<Col md={12}>
 						<Card className="focus mt-2 mb-2">
 							<Card.Body>
@@ -48,7 +95,7 @@ const Groom = () => {
 										<div className='event-date'>
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Morning 10 AM IST
+											February 29th, 2024 - Morning 11 AM IST
 										</span>
 										<br/>
 										<span>
@@ -65,52 +112,7 @@ const Groom = () => {
 						</Card>
 					</Col>
 
-					<Col md={12}>
-						<Card className="focus mt-2 mb-2">
-							<Card.Body>
-								{/* Frontend */}
-								<Card.Title className="text-center  card-title">HALDI</Card.Title>
-								<hr />
-								<Card.Text className="card-text d-flex justify-content-start flex-column">
-									{skills.groomHaldi.map((skill, index) => (
-										<><span className="p-2" key={index}>
-										<a
-											className="text-dark text-decoration-none"
-											href={skill.link}
-											target="_blank"
-											rel="noopener noreferrer"
-										>
-											<Image
-												src={skill.imgSrc}
-												alt={skill.imgAltText}
-												rounded
-												className='groomhaldi-image img-fluid'
-												
-											></Image>{' '}
-											</a>
-										</span>
-										<strong className='pre-header'>"HALDI Kissed !!"</strong>
-										<span className='event-message'>Haldi  is a pre-wedding ceremony performed a day or two before the wedding. Family members and friends playfully slather the groom in a paste of turmeric, oil, and milk to prevent evil spirits from harming the to-be-wed couple.</span>
-										<div className='event-date'>
-										<span>
-											<strong>Event Date : </strong>
-											February 29th, 2024 - Noon 12 PM IST
-										</span>
-										<br/>
-										<span>
-											<strong>Location : </strong>
-											<Button variant="link" className='location' href="https://www.google.com/maps/place/14%C2%B054'13.2%22N+78%C2%B000'40.1%22E/@14.9037652,78.0108261,20z/data=!4m5!3m4!4b1!8m2!3d14.903679!4d78.011148?entry=ttu" target="_blank">Groom's Home - Sapthagiri Nilayam, Tadipatri</Button>
-										
-										</span>
-										</div>
-										</>
-										
-											
-									))}
-								</Card.Text>
-							</Card.Body>
-						</Card>
-					</Col>
+					
 
 					<Col md={12}>
 						<Card className="focus mt-2 mb-2">
@@ -142,7 +144,7 @@ const Groom = () => {
 											
 										<span>
 											<strong>Event Date : </strong>
-											February 29th, 2024 - Evening 7 PM IST
+											February 29th, 2024 - Evening 6 PM IST
 										</span>
 										<br/>
 										<span>
