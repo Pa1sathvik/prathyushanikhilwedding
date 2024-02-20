@@ -4,20 +4,15 @@
 }
 
 
-/*
- This is a multi-line comment explaining a section of code.
- It can be used to document complex styles or provide notes
- for future reference.
+
+ 
  @media (max-width: 768px) {
   .custom-img {
     height: unset !important;
     object-fit: contain;
   }
 
-  img{
-    height: 100px;
-    width: 100px;
-  }
+  
 }
-*/
+
 

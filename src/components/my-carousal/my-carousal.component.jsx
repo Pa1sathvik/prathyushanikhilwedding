@@ -38,7 +38,8 @@ const MyCarousal = () => {
          
         </Carousel.Item>
        
-        <Carousel.Item>
+       {/**
+        *  <Carousel.Item>
           <img className="d-block w-100 custom-img" src={Slide6} alt="Third slide" />
          
         </Carousel.Item>
@@ -48,6 +49,8 @@ const MyCarousal = () => {
           <img className="d-block w-100 custom-img" src={Slide8} alt="Third slide" />
          
         </Carousel.Item>
+       
+        */}
        
       
       </Carousel>
